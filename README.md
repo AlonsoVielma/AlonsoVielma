@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ALONSO VIELMA.banner github.png" alt="PP – Portafolio de Datos y Marketing" width="100%">
+</p>
+
 # AlonsoVielma – Portafolio Profesional en Marketing Digital y Análisis de Datos
 
 Este repositorio representa una muestra curada de mis competencias, proyectos y herramientas utilizadas en el ámbito del marketing digital con orientación B2B, programas de fidelización y análisis de datos, combinando la visión estratégica con la ejecución técnica.
