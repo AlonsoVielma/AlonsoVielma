@@ -67,6 +67,7 @@ Comprometido con la mejora continua, me guío por la toma de decisiones basada e
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlonsoVielma&theme=darcula)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
 
 > Este repositorio será actualizado periódicamente con nuevos casos prácticos, dashboards interactivos y scripts aplicados en contextos de marketing y negocios.
