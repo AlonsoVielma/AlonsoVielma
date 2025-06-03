@@ -63,11 +63,6 @@ Comprometido con la mejora continua, me guío por la toma de decisiones basada e
 
 ![Alonso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlonsoVielma&show_icons=true&theme=default&hide=issues&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlonsoVielma&layout=compact&theme=default)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AlonsoVielma&theme=darcula)](https://git.io/streak-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 ---
 
 > Este repositorio será actualizado periódicamente con nuevos casos prácticos, dashboards interactivos y scripts aplicados en contextos de marketing y negocios.
