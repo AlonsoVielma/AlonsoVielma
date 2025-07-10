@@ -44,7 +44,7 @@ Comprometido con la mejora continua, me guío por la toma de decisiones basada e
 
 ## 🌍 Experiencia Profesional
 
-- **Puntospoint (Actual)** – Asistente de Marketing Jr.  
+- **Puntospoint** – Asistente y analista de Marketing Jr.  
   Estrategia de fidelización, CRM y análisis de mercado.
 
 - **Kreativstorm Agency (Alemania)** – Junior Marketing Specialist  
